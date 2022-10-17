@@ -1,0 +1,24 @@
+{
+  "name": "nir-portfolio",
+  "version": "1.0.0",
+  "description": "Nir Shtein portfolio",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python3 -m http.server 4000 --directory src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirsht/nir-portfolio.git"
+  },
+  "keywords": [
+    "NirShtein",
+    "Portfolio"
+  ],
+  "author": "Nir Shtein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirsht/nir-portfolio/issues"
+  },
+  "homepage": "https://github.com/nirsht/nir-portfolio#readme"
+}
